@@ -1,0 +1,12 @@
+1. Thursday.....>>>>> I have completed 200( 3840 x 2160) scaling in 5 sections.
+  *) configuration settings
+  *) install and uninstall.
+  *) solution explorer.
+  *) source file.
+  *) Uc main menu.
+2. Friday.....>>>>> I have completed 250% ( 3840 x 2160) scaling in 5 sections.
+  *) configuration settings
+  *) install and uninstall.
+  *) solution explorer.
+  *) source file.
+  *) Uc main menu.
