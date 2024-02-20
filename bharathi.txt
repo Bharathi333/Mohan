@@ -10,3 +10,4 @@
   *) solution explorer.
   *) source file.
   *) Uc main menu.
+  *) Config menu
